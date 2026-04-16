@@ -1,0 +1,4 @@
+cloud_id  = "ваш_cloud_id"
+folder_id = "ваш_folder_id"
+ig_service_account_id = "ваш_service_account_id" ## yc iam service-account list
+ig_ssh_key_path = "~/.ssh/id_ed25519_yd.pub" ## Путь до публичной части ключа
